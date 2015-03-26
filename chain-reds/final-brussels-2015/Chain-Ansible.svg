@@ -17,7 +17,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="Chain-Ansible.pdf"
+   sodipodi:docname="Chain-Ansible.svg"
    enable-background="new">
   <defs
      id="defs4">
@@ -1209,10 +1209,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="688.45585"
-     inkscape:cy="990.403"
+     inkscape:cx="666.23455"
+     inkscape:cy="598.43321"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:showpageshadow="false"
      units="mm"
@@ -1699,12 +1699,12 @@
      inkscape:label="Blocks"
      transform="translate(0,2.2607422e-5)">
     <rect
-       style="fill:#b13620;fill-opacity:1;stroke:#1e1d1e;stroke-width:0.75107968;stroke-miterlimit:4;stroke-opacity:0.47257385;stroke-dasharray:none"
+       style="fill:#b13620;fill-opacity:1;stroke:#1e1d1e;stroke-width:0.87554395;stroke-miterlimit:4;stroke-opacity:0.47257385;stroke-dasharray:none"
        id="rect4398-5"
-       width="457.70639"
+       width="621.97198"
        height="59.970268"
-       x="1030.4825"
-       y="654.73926" />
+       x="866.21692"
+       y="656.73926" />
     <rect
        style="fill:#f8f074;fill-opacity:1;stroke:#000000;stroke-width:0.71439004;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3710-1-4"
@@ -3085,15 +3085,15 @@
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato Bold"
-       x="1111.3424"
-       y="694.89557"
+       x="930.81763"
+       y="701.42438"
        id="text4484"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4486"
-         x="1111.3424"
-         y="694.89557"
-         style="font-size:40px">AAROC is DevOps</tspan></text>
+         x="930.81763"
+         y="701.42438"
+         style="font-size:40px">AAROC is Human-Readable</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4488"
