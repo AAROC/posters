@@ -1208,11 +1208,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="666.23455"
-     inkscape:cy="598.43321"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="781.53027"
+     inkscape:cy="111.85908"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:showpageshadow="false"
      units="mm"
@@ -1428,7 +1428,7 @@
        id="path3219" />
     <g
        id="g4165"
-       transform="translate(0,-2.7513752e-6)">
+       transform="translate(0,-10.000003)">
       <image
          transform="matrix(0.24369483,0,0,0.24369483,966.76571,766.13159)"
          clip-path="url(#clipPath3483)"
@@ -1459,7 +1459,7 @@
      transform="translate(0,2.2607422e-5)">
     <g
        id="g4370"
-       transform="matrix(0.81188646,0,0,0.81188646,4.6622304,358.10921)">
+       transform="matrix(0.81188646,0,0,0.81188646,-20.173818,351.70017)">
       <g
          transform="matrix(0.6230128,0,0,-0.6230128,117.38853,1949.5277)"
          id="g3294">
@@ -1609,14 +1609,18 @@
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato Medium Italic"
-       x="410.23404"
-       y="2084.7244"
+       x="10"
+       y="2062.7244"
        id="text4170"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4172"
-         x="410.23404"
-         y="2084.7244">CHAIN-REDS Final Conference. March 31, 2015. Brussels, Belgium</tspan></text>
+         x="10"
+         y="2062.7244">Project Final Conference. </tspan><tspan
+         sodipodi:role="line"
+         x="10"
+         y="2092.7244"
+         id="tspan14157">March 31, 2015. Brussels</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1625,7 +1629,7 @@
      transform="translate(0,2.2607422e-5)">
     <g
        id="g4142"
-       transform="translate(-68.994722,-36.931003)">
+       transform="translate(-47.800098,-32.931003)">
       <text
          sodipodi:linespacing="125%"
          id="text4436"
@@ -3086,13 +3090,13 @@
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato Bold"
        x="930.81763"
-       y="701.42438"
+       y="694.89557"
        id="text4484"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4486"
          x="930.81763"
-         y="701.42438"
+         y="694.89557"
          style="font-size:40px">AAROC is Human-Readable</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -3197,7 +3201,7 @@
    style="font-weight:bold"
    id="flowSpan11890">EGI.eu</flowSpan>. AAROC provides transparent interfaces for several scientific communities to a wide variety of e-Science Services including Science Gateways, Identity Services, and heterogeneous HPC and data facilities. </flowPara><flowPara
            id="flowPara11886"
-           style="font-size:32px;font-style:normal;text-align:center;text-anchor:middle">Coordination is a serious challenge</flowPara></flowRoot>      <flowRoot
+           style="font-size:32px;font-style:normal;text-align:center;text-anchor:middle" /></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot13626"
          style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato"
@@ -3248,9 +3252,17 @@
            x="11.313708"
            y="782.43469"
            style="text-align:start;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara13857">Inconsistent or incorrect deployment of services breaks interoperability. </flowPara><flowPara
-         id="flowPara13861">Manual configuration of services and applications is error-prone and opaque. Site operators are busy and overworked</flowPara><flowPara
-         id="flowPara13865">All this impedes technical collaboration</flowPara></flowRoot>    <flowRoot
+         id="flowPara13857">Inconsistent or incorrect deployment of services <flowSpan
+   style="font-weight:bold;font-style:italic"
+   id="flowSpan14163">breaks</flowSpan> interoperability. </flowPara><flowPara
+         id="flowPara13861">Manual configuration of services and applications is <flowSpan
+   style="font-weight:bold;font-style:italic"
+   id="flowSpan14167">error-prone and opaque</flowSpan>. Site operators are <flowSpan
+   style="font-weight:bold;font-style:italic"
+   id="flowSpan14171">busy</flowSpan> and overworked</flowPara><flowPara
+         id="flowPara13865">All this <flowSpan
+   style="font-weight:bold;font-style:italic"
+   id="flowSpan14175">impedes</flowSpan> technical collaboration</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot13872"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Sans"
@@ -3262,7 +3274,9 @@
            x="18.384777"
            y="1073.7627"
            style="text-align:justify;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara13882">Operators fork the repo, apply site-specific variables for the services they desire and deploy.</flowPara></flowRoot>    <flowRoot
+         id="flowPara13882">Operators fork the repo, apply site-specific variables for the services they desire ... and deploy: <flowSpan
+   style="font-weight:bold;font-style:italic"
+   id="flowSpan14179">much easier.</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot13888"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Lato;font-style:normal;font-weight:normal;font-size:32px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans;font-stretch:normal;font-variant:normal"><flowRegion
@@ -3304,7 +3318,65 @@
            y="1813.3964"
            style="text-anchor:end;text-align:end;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara14019"
-         style="font-weight:bold;-inkscape-font-specification:Lato Bold;font-style:normal">Come be a part of it !</flowPara></flowRoot>  </g>
+         style="font-weight:bold;-inkscape-font-specification:Lato Bold;font-style:normal">Come be a part of it !</flowPara></flowRoot>    <g
+       id="g14146"
+       transform="matrix(2.2988506,0,0,2.2988506,544.09448,2042.7473)">
+      <g
+         id="g14122"
+         mask="url(#a)">
+        <path
+           id="path14124"
+           d="M 0,0 H 33 V 20 H 0 z"
+           inkscape:connector-curvature="0"
+           style="fill:#555555" />
+        <path
+           id="path14126"
+           d="M 33,0 H 174 V 20 H 33 z"
+           inkscape:connector-curvature="0"
+           style="fill:#007ec6" />
+        <path
+           id="path14128"
+           d="M 0,0 H 174 V 20 H 0 z"
+           inkscape:connector-curvature="0"
+           style="fill:url(#b)" />
+      </g>
+      <g
+         id="g14130"
+         font-size="11"
+         style="font-size:11px;text-anchor:middle;fill:#ffffff;font-family:'DejaVu Sans,Verdana,Geneva,sans-serif'">
+        <text
+           id="text14132"
+           y="15"
+           x="17.5"
+           style="fill:#010101;fill-opacity:0.3">DOI</text>
+        <text
+           id="text14134"
+           y="14"
+           x="17.5">DOI</text>
+        <text
+           id="text14136"
+           y="15"
+           x="102.5"
+           style="fill:#010101;fill-opacity:0.3">10.5281/zenodo.16377</text>
+        <text
+           id="text14138"
+           y="14"
+           x="102.5">10.5281/zenodo.16377</text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Sans"
+       x="468.72433"
+       y="633.94226"
+       id="text14159"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14161"
+         x="468.72433"
+         y="633.94226"
+         style="font-size:40px;font-weight:bold;-inkscape-font-specification:Lato Bold">Coordination is a serious challenge</tspan></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
