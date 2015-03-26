@@ -16,10 +16,17 @@
    height="2104.7244"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="Chain-Ansible.svg">
   <defs
      id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 1052.3622 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1488.189 : 1052.3622 : 1"
+       inkscape:persp3d-origin="744.09448 : 701.57479 : 1"
+       id="perspective3680" />
     <linearGradient
        id="linearGradient6271"
        osb:paint="solid">
@@ -1122,18 +1129,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="824.41016"
-     inkscape:cy="990.18166"
+     inkscape:cx="494.08662"
+     inkscape:cy="1385.0661"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:showpageshadow="false"
      units="cm"
-     inkscape:window-width="1920"
-     inkscape:window-height="1024"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -1142,7 +1150,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:rights>
           <cc:Agent>
             <dc:title>CHAIN-REDS project</dc:title>
@@ -1230,6 +1238,18 @@
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato Bold"
+       x="705.69257"
+       y="710.30981"
+       id="text4480"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-1052.3657)"><tspan
+         sodipodi:role="line"
+         id="tspan4482"
+         x="705.69257"
+         y="710.30981" /></text>
   </g>
   <g
      inkscape:label="Central Image"
@@ -1306,7 +1326,7 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       d="m 2.257529,-833.62559 1486.913471,0 0,-220.19351 -1486.913471,0 0,220.19351 z"
+       d="m 0,-832.17219 1486.9135,0 0,-220.19351 -1486.9135,0 0,220.19351 z"
        style="fill:#373437;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path3213" />
     <path
@@ -1316,7 +1336,7 @@
        id="path3215" />
     <path
        inkscape:connector-curvature="0"
-       d="m 2.257529,-823.07346 1486.938471,0 0,-10.55213 -1486.938471,0 0,10.55213 z"
+       d="m 0,-822.82346 1486.9385,0 0,-10.55213 -1486.9385,0 0,10.55213 z"
        style="fill:#f25c27;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="path3217" />
     <path
@@ -1573,41 +1593,62 @@
      inkscape:label="Title">
     <text
        xml:space="preserve"
-       style="font-size:90px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:HandelGotDBol;-inkscape-font-specification:HandelGotDBol Bold"
-       x="60.217529"
-       y="154.72437"
+       style="font-size:90px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato"
+       x="744.4411"
+       y="108.05532"
        id="text5387"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5389"
-         x="60.217529"
-         y="154.72437">Sotfware Defined Infrastructure</tspan></text>
+         x="744.4411"
+         y="108.05532">Software-Defined e-Infrastructure</tspan><tspan
+         sodipodi:role="line"
+         x="744.4411"
+         y="193.82407"
+         id="tspan3585"
+         style="font-size:64px;font-style:italic;font-weight:normal;text-align:center;text-anchor:middle;-inkscape-font-specification:Lato Italic">for the Africa-Arabia Regional Operations Centre</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Blocks">
     <rect
-       style="opacity:0.57661288;fill:#f5ac1f;fill-opacity:1;stroke:#1e1d1e;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:0.47257385;stroke-dasharray:none"
+       style="opacity:1;fill:#b13620;fill-opacity:1;stroke:#1e1d1e;stroke-width:0.99999994000000003;stroke-miterlimit:4;stroke-opacity:0.47257385000000002;stroke-dasharray:none"
        id="rect4398"
        width="761.36255"
        height="59.970268"
-       x="-2"
-       y="231.50217" />
+       x="0"
+       y="235.91638" />
     <rect
-       style="opacity:0.57661288;fill:#f5ac1f;fill-opacity:1;stroke:#1e1d1e;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.47257385;stroke-dasharray:none"
+       style="opacity:1;fill:#b13620;fill-opacity:1;stroke:#1e1d1e;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.47257385000000002;stroke-dasharray:none"
        id="rect4398-5"
        width="811.36255"
        height="59.970268"
        x="676.31873"
        y="682.73926" />
     <rect
-       style="opacity:0.57661288;fill:#f5ac1f;fill-opacity:1;stroke:#1e1d1e;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:0.47257385;stroke-dasharray:none"
+       style="opacity:1;fill:#b13620;fill-opacity:1;stroke:#1e1d1e;stroke-width:0.99999994000000003;stroke-miterlimit:4;stroke-opacity:0.47257385000000002;stroke-dasharray:none"
        id="rect4398-0"
        width="761.36255"
        height="59.970268"
        x="3.3187318"
        y="1314.7393" />
+    <rect
+       style="fill:#f8f074;stroke:#000000;stroke-width:0.97772884;stroke-opacity:1"
+       id="rect3710"
+       width="1422.6396"
+       height="335.87567"
+       x="65.549263"
+       y="319.86554"
+       ry="0" />
+    <rect
+       style="fill:#f8f074;stroke:#000000;stroke-width:0.7251603;stroke-opacity:1"
+       id="rect3710-1"
+       width="640.89221"
+       height="410.12823"
+       x="-0.12628426"
+       y="722.66028"
+       ry="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2859,5 +2900,115 @@
         </g>
       </g>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="text">
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato Bold"
+       x="0"
+       y="275.55368"
+       id="text3587"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3589"
+         x="0"
+         y="275.55368"
+         style="font-size:40px;fill:#ffffff;fill-opacity:1">A complex distributed environment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32.59012985px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato Bold"
+       x="82.615242"
+       y="366.68918"
+       id="text3646"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0184415,0.98189242)"><tspan
+         sodipodi:role="line"
+         id="tspan3648"
+         x="82.615242"
+         y="366.68918"
+         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Lato">The Africa-Arabia Regional Operations Centre (AAROC) was developed during the course </tspan><tspan
+         sodipodi:role="line"
+         x="82.615242"
+         y="407.42685"
+         id="tspan3654"
+         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Lato">of the CHAIN and CHAIN-REDS projects. As its mission, AAROC has to promote and support </tspan><tspan
+         sodipodi:role="line"
+         x="82.615242"
+         y="448.16449"
+         id="tspan3656"
+         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Lato">collective, coherent and sustainable interoperability of e-Infrastructures within the region </tspan><tspan
+         sodipodi:role="line"
+         x="82.615242"
+         y="488.90216"
+         id="tspan3660"
+         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Lato">and beyond, to peer infrastructures in the rest of the world; and to act as a point of coordination </tspan><tspan
+         sodipodi:role="line"
+         x="82.615242"
+         y="529.63983"
+         id="tspan3668"
+         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Lato">and support to computational resource providers in the region, in order to promote and develop</tspan><tspan
+         sodipodi:role="line"
+         x="82.615242"
+         y="570.3775"
+         id="tspan3670"
+         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Lato"> regional scientific and technical collaboration. </tspan><tspan
+         sodipodi:role="line"
+         x="82.615242"
+         y="611.11517"
+         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Lato"
+         id="tspan4518">AAROC provides transparent, interfaces to a wide variety of e-Science services, including </tspan><tspan
+         sodipodi:role="line"
+         x="82.615242"
+         y="651.85284"
+         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Lato"
+         id="tspan4524">science gateways, identity services, HPC and data facilities, in a heterogeneous federation.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato Bold"
+       x="1002"
+       y="712.72437"
+       id="text3672"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3674"
+         x="1002"
+         y="712.72437" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato Bold"
+       x="723.83472"
+       y="728.89557"
+       id="text4484"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4486"
+         x="723.83472"
+         y="728.89557"
+         style="font-size:40px">AAROC is DevOps</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4488"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Lato;font-style:normal;font-weight:bold;font-size:32px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Lato Bold;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion4490"><rect
+           id="rect4492"
+           width="110"
+           height="78"
+           x="42"
+           y="356.72437" /></flowRegion><flowPara
+         id="flowPara4494"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Lato;-inkscape-font-specification:Lato Bold"
+       x="54"
+       y="1350.7244"
+       id="text4496"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4498"
+         x="54"
+         y="1350.7244"
+         style="font-size:40px">Collaborative, Continuous Delivery</tspan></text>
   </g>
 </svg>
